@@ -1,9 +1,5 @@
-<!-- # ☀️🌤⛈❄️ A weather web application using Html, Css, Javascript, Weathermap Api
+# Weather app
+Weather app is designed to provide you with accurate and up-to-date weather information for any place you desire, whether it's your hometown or a destination halfway around the world.
 
-## Screenshot
-<img src="https://github.com/Bhaskar-maity/Javascript-weather-app/blob/main/Screenshot.jpg">
-
-The API provider: http://www.OpenWeatherMap.org
-
-## Live demo
-[Javascript Weather App](https://bhaskar-maity.github.io/Javascript-weather-app/) -->
+# Live demo
+https://arman1612.github.io/Weather_app/
